@@ -6,7 +6,7 @@
 
 I build **full-stack web applications** and contribute to **open-source developer tools**. My projects use React and Node.js to turn algorithms into features such as route planning and habit streak tracking.
 
-[Projects](#featured-projects) · [Open source](#open-source-contributions) · [Tech stack](#tech-stack) · [GitHub activity](https://github.com/Vanshchandel17?tab=overview#contribution-activity)
+[Projects](#featured-projects) · [Open source](#open-source-contributions) · [Tech stack](#tech-stack) · [GitHub activity](https://github.com/Vanshchandel17?tab=overview)
 
 > “I am burdened with glorious purpose.”  
 > — Loki, *The Avengers* ([Marvel character profile](https://www.marvel.com/characters/loki/))
