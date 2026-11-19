@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="350" viewBox="0 0 1200 350">
+<title>Glorious purpose — Loki-inspired horned crown and branching timelines</title>
+<defs>
+  <linearGradient id="bg"><stop stop-color="#091511"/><stop offset="1" stop-color="#12362A"/></linearGradient>
+  <linearGradient id="gold" x2="0" y2="1" gradientUnits="objectBoundingBox"><stop stop-color="#FCE6A3"/><stop offset=".52" stop-color="#DCB668"/><stop offset="1" stop-color="#9B6D32"/></linearGradient>
+  <radialGradient id="halo"><stop stop-color="#398B60" stop-opacity=".63"/><stop offset="1" stop-color="#398B60" stop-opacity="0"/></radialGradient>
+  <pattern id="grid" width="26" height="26" patternUnits="userSpaceOnUse"><path d="M26 0H0V26" fill="none" stroke="#9DD9B4" stroke-opacity=".10"/></pattern>
+</defs>
+<rect width="1200" height="350" rx="20" fill="url(#bg)"/>
+<rect x="16" y="16" width="1168" height="318" rx="12" fill="url(#grid)" stroke="#A98449" stroke-opacity=".65"/>
+<circle cx="932" cy="175" r="174" fill="url(#halo)"/>
+<g fill="none" stroke="#87DEA2" opacity=".55">
+ <circle cx="932" cy="175" r="128" stroke-dasharray="2 8"/>
+ <circle cx="932" cy="175" r="111" opacity=".5"/>
+ <path d="M654 288H764l46-42h91m-188 66h117l54-50h110l50-53h115m-109-76h53l40-39h35M744 65h81l42 43h192l31-29h58"/>
+</g>
+<g fill="#BDF6C4"><circle cx="764" cy="288" r="3"/><circle cx="1044" cy="209" r="3"/><circle cx="1143" cy="94" r="3"/><circle cx="825" cy="65" r="3"/></g>
+<path d="M932 262l-65-41-16-57c-26-23-45-60-45-119 25 46 55 65 86 76l40 28 40-28c31-11 61-30 86-76 0 59-19 96-45 119l-16 57z" fill="#081E17" stroke="url(#gold)" stroke-width="5" stroke-linejoin="round"/>
+<path d="M806 45c23 76 57 93 96 110l30 22 30-22c39-17 73-34 96-110m-207 119 52 17 29 26 29-26 52-17m-146 57 38-5 27 20 27-20 38 5m-65-14v55" fill="none" stroke="url(#gold)" stroke-width="3" stroke-linejoin="round" opacity=".88"/>
+<path d="m932 188 10 13-10 13-10-13z" fill="#BDF6C4"/>
+<text x="71" y="92" fill="#ADDABA" font-family="monospace" font-size="21" letter-spacing="5">LOKI  /  ASGARD</text>
+<path d="M71 117H189" stroke="#D5B276" stroke-width="2"/>
+<text x="67" y="198" fill="#F8E7BC" font-family="Georgia, serif" font-size="66">Glorious purpose</text>
+<text x="71" y="252" fill="#C6E2D1" font-family="monospace" font-size="21" letter-spacing="2">PROJECTS &amp; OPEN SOURCE</text>
+<path d="M71 290H615" stroke="#C4A36A" stroke-opacity=".55"/>
+</svg>
