@@ -70,16 +70,16 @@ A Chrome extension built around a popup, a page content script, and a background
 
 <!-- activity:start -->
 
+- 2026-11-24 · Updated a pull request in [kornia/kornia](https://github.com/kornia/kornia)
 - 2026-11-23 · Reviewed a pull request in [kornia/kornia](https://github.com/kornia/kornia)
 - 2026-11-22 · Updated a pull request in [openfoodfacts/open-prices-frontend](https://github.com/openfoodfacts/open-prices-frontend)
+- 2026-11-22 · Created a branch, tag, or repository in [Vanshchandel17/open-prices-frontend](https://github.com/Vanshchandel17/open-prices-frontend)
 - 2026-11-22 · Pushed to [Vanshchandel17/kornia](https://github.com/Vanshchandel17/kornia)
 - 2026-11-20 · Updated a pull request in [kornia/kornia](https://github.com/kornia/kornia)
 - 2026-11-20 · Pushed to [Vanshchandel17/kornia](https://github.com/Vanshchandel17/kornia)
 - 2026-11-20 · Created a branch, tag, or repository in [Vanshchandel17/kornia](https://github.com/Vanshchandel17/kornia)
 - 2026-11-20 · Pushed to [Vanshchandel17/kornia](https://github.com/Vanshchandel17/kornia)
 - 2026-11-20 · Updated a pull request in [kornia/kornia](https://github.com/kornia/kornia)
-- 2026-11-20 · Pushed to [Vanshchandel17/kornia](https://github.com/Vanshchandel17/kornia)
-- 2026-11-20 · Created a branch, tag, or repository in [Vanshchandel17/kornia](https://github.com/Vanshchandel17/kornia)
 
 <!-- activity:end -->
 
@@ -89,6 +89,7 @@ A Chrome extension built around a popup, a page content script, and a background
 
 <!-- merged:start -->
 
+- [kornia/kornia](https://github.com/kornia/kornia) · [#6863 · docs: explain reconstruction for batched line-plane intersections](https://github.com/kornia/kornia/pull/6863)
 - [kornia/kornia](https://github.com/kornia/kornia) · [#6847 · docs: illustrate line-plane intersection and parallel fallback](https://github.com/kornia/kornia/pull/6847)
 - [Cygnux-Labs/Tracekit](https://github.com/Cygnux-Labs/Tracekit) · [#702 · Show --agent in the init command summary](https://github.com/Cygnux-Labs/Tracekit/pull/702)
 - [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle) · [#22391 · Issue &#35;20590: Add ParameterAssignmentCheck compact source coverage](https://github.com/checkstyle/checkstyle/pull/22391)
@@ -103,9 +104,8 @@ A Chrome extension built around a popup, a page content script, and a background
 
 <!-- open:start -->
 
-- [kornia/kornia](https://github.com/kornia/kornia) · [#6863 · docs: explain reconstruction for batched line-plane intersections](https://github.com/kornia/kornia/pull/6863)
-- [openfoodfacts/open-prices-frontend](https://github.com/openfoodfacts/open-prices-frontend) · [#2551 · fix: link to original proofs from price validation](https://github.com/openfoodfacts/open-prices-frontend/pull/2551) (draft)
 - [openfoodfacts/openfoodfacts-explorer](https://github.com/openfoodfacts/openfoodfacts-explorer) · [#2221 · fix&#40;facets&#41;: show readable tag names on facet pages](https://github.com/openfoodfacts/openfoodfacts-explorer/pull/2221)
+- [openfoodfacts/open-prices-frontend](https://github.com/openfoodfacts/open-prices-frontend) · [#2551 · fix: link to original proofs from price validation](https://github.com/openfoodfacts/open-prices-frontend/pull/2551) (draft)
 - [openfoodfacts/open-prices-frontend](https://github.com/openfoodfacts/open-prices-frontend) · [#2543 · feat: show optional proof previews on product price lists](https://github.com/openfoodfacts/open-prices-frontend/pull/2543)
 - [apache/commons-validator](https://github.com/apache/commons-validator) · [#448 · &#91;javadoc&#93; Clarify ISSN EAN-13 extraction failure contract](https://github.com/apache/commons-validator/pull/448)
 - [google/truth](https://github.com/google/truth) · [#1723 · Clarify equality for lists containing arrays](https://github.com/google/truth/pull/1723)
