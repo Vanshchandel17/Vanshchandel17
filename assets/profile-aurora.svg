@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="340" viewBox="0 0 960 340" role="img" aria-labelledby="title description">
+  <title id="title">Ankit Singh Chandel</title>
+  <desc id="description">Full-stack development, algorithms, and open source. Teal and violet light moves behind a geometric branching pattern.</desc>
+  <defs>
+    <linearGradient id="background" x2="100%" y2="100%" gradientUnits="objectBoundingBox">
+      <stop stop-color="#081721"/>
+      <stop offset="1" stop-color="#100e22"/>
+    </linearGradient>
+    <radialGradient id="teal">
+      <stop stop-color="#087e85" stop-opacity=".62"/>
+      <stop offset="1" stop-color="#087e85" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="violet">
+      <stop stop-color="#714ccb" stop-opacity=".62"/>
+      <stop offset="1" stop-color="#714ccb" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#c5defe" stroke-opacity=".09"/>
+    </pattern>
+    <clipPath id="frame"><rect x="1" y="1" width="958" height="338" rx="26"/></clipPath>
+    <style>
+      .teal { animation: drift-teal 14s ease-in-out infinite alternate; }
+      .violet { animation: drift-violet 17s ease-in-out infinite alternate; }
+      .signal { animation: pulse 4s ease-in-out infinite alternate; }
+      @keyframes drift-teal { to { transform: translate(150px, -50px); } }
+      @keyframes drift-violet { to { transform: translate(-130px, 55px); } }
+      @keyframes pulse { from { opacity: .4; } to { opacity: 1; } }
+      @media (prefers-reduced-motion: reduce) {
+        .teal, .violet, .signal { animation: none; }
+      }
+    </style>
+  </defs>
+  <rect x="1" y="1" width="958" height="338" rx="26" fill="url(#background)" stroke="#425466" stroke-width="2"/>
+  <g clip-path="url(#frame)">
+    <ellipse class="teal" cx="125" cy="290" rx="475" ry="305" fill="url(#teal)"/>
+    <ellipse class="violet" cx="840" cy="20" rx="400" ry="300" fill="url(#violet)"/>
+    <rect width="960" height="340" fill="url(#grid)"/>
+    <g fill="none" stroke="#8eaec4" stroke-opacity=".27" stroke-width="2">
+      <path d="M0 254H98L147 205H216M0 286H134L164 256H234M960 55H863L821 97H749M960 91H900L864 127H811"/>
+    </g>
+    <g class="signal" fill="#7fefdf">
+      <circle cx="216" cy="205" r="4"/><circle cx="234" cy="256" r="4"/>
+      <circle cx="749" cy="97" r="4"/><circle cx="811" cy="127" r="4"/>
+    </g>
+  </g>
+  <g font-family="system-ui, -apple-system, sans-serif" text-anchor="middle">
+    <text x="480" y="97" fill="#a9f4e8" font-size="19" letter-spacing="2">@Vanshchandel17</text>
+    <text x="480" y="169" fill="#f7fbff" font-size="59" font-weight="750">Ankit Singh Chandel</text>
+    <text x="480" y="218" fill="#d2e0f2" font-size="24">Full-stack development · Algorithms · Open source</text>
+    <path d="M395 253H565" stroke="#8dd7d1" stroke-opacity=".65" stroke-width="1"/>
+    <text x="480" y="293" fill="#e6e9fa" font-size="22">Small commits build things people can rely on.</text>
+  </g>
+</svg>
