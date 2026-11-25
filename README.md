@@ -1,17 +1,17 @@
 <p align="center">
-  <img src="assets/profile-aurora.svg" width="100%" alt="Ankit Singh Chandel · Full-stack development, algorithms, and open source" />
+  <img src="assets/profile-panels.svg" width="100%" alt="Ankit Singh Chandel. Full-stack development, open source, algorithms, and tech stack." />
 </p>
 
 <p align="center">
-  <a href="#featured-projects"><strong>Projects</strong></a> ·
-  <a href="#open-source-contributions"><strong>Open source</strong></a> ·
-  <a href="#contribution-calendar"><strong>Activity</strong></a> ·
-  <a href="#tech-stack"><strong>Tech stack</strong></a>
+  <a href="https://github.com/Vanshchandel17?tab=repositories"><strong>Repositories</strong></a> &nbsp;·&nbsp;
+  <a href="https://github.com/search?q=is%3Apr+is%3Apublic+author%3AVanshchandel17+-user%3AVanshchandel17&amp;type=pullrequests"><strong>Pull requests</strong></a> &nbsp;·&nbsp;
+  <a href="https://github.com/Vanshchandel17#contribution-graph"><strong>Contribution calendar</strong></a>
 </p>
 
-I build React and Node.js applications and use algorithms to solve practical problems, from routing deliveries to calculating habit streaks. Upstream, I contribute tests, documentation, and fixes to projects such as Kornia and Checkstyle.
+<details>
+<summary><strong>Featured projects, contributions, and activity</strong></summary>
 
-> A good pull request makes the next contributor's job easier.
+> A good pull request makes the next contributor’s job easier.
 
 ## Featured projects
 
@@ -131,3 +131,5 @@ A Chrome extension built around a popup, a page content script, and a background
   <a href="https://github.com/Vanshchandel17?tab=repositories"><strong>Browse repositories</strong></a> &nbsp;·&nbsp;
   <a href="https://github.com/search?q=is%3Apr+author%3AVanshchandel17&type=pullrequests"><strong>Browse pull requests</strong></a>
 </p>
+
+</details>
