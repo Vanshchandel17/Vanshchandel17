@@ -1,19 +1,17 @@
 <p align="center">
-  <img src="assets/timeline-hero.svg" width="100%" alt="Ankit Singh Chandel — Glorious Purpose. Loki’s gold crown framed by branching emerald timelines." />
+  <img src="assets/profile-aurora.svg" width="100%" alt="Ankit Singh Chandel · Full-stack development, algorithms, and open source" />
 </p>
 
 <p align="center">
-  <a href="#featured-projects"><strong>Projects</strong></a> &nbsp;·&nbsp;
-  <a href="#public-repositories"><strong>Repositories</strong></a> &nbsp;·&nbsp;
-  <a href="#recent-public-activity"><strong>Activity</strong></a> &nbsp;·&nbsp;
-  <a href="#open-source-contributions"><strong>Open source</strong></a> &nbsp;·&nbsp;
+  <a href="#featured-projects"><strong>Projects</strong></a> ·
+  <a href="#open-source-contributions"><strong>Open source</strong></a> ·
+  <a href="#contribution-calendar"><strong>Activity</strong></a> ·
   <a href="#tech-stack"><strong>Tech stack</strong></a>
 </p>
 
-I’m **Ankit Singh Chandel**. I build full-stack apps with React and Node.js, apply algorithms to features like route planning and streak tracking, and contribute tests, documentation, and fixes to open-source developer tools.
+I build React and Node.js applications and use algorithms to solve practical problems, from routing deliveries to calculating habit streaks. Upstream, I contribute tests, documentation, and fixes to projects such as Kornia and Checkstyle.
 
-> “I am burdened with glorious purpose.”  
-> — Loki, *The Avengers* ([Marvel](https://www.marvel.com/characters/loki/))
+> A good pull request makes the next contributor's job easier.
 
 ## Featured projects
 
@@ -40,48 +38,6 @@ A full-stack habit tracker with a completion calendar and progress dashboard. A 
 A Chrome extension built around a popup, a page content script, and a background service worker.
 
 **Stack** · JavaScript · Chrome Extensions · Manifest V3
-
-## Public repositories
-
-<!-- repos:start -->
-
-| Repository | Description | Last push (UTC) |
-| :--- | :--- | :--- |
-| [Vanshchandel17/open-prices-frontend](https://github.com/Vanshchandel17/open-prices-frontend) (fork) | A vue.js frontend for Open Prices | 2026-11-22 |
-| [Vanshchandel17/kornia](https://github.com/Vanshchandel17/kornia) (fork) | 🐍 Geometric Computer Vision Library for Spatial AI | 2026-11-22 |
-| [Vanshchandel17/openfoodfacts-explorer](https://github.com/Vanshchandel17/openfoodfacts-explorer) (fork) | The next-generation frontend for OpenFoodFacts, made with SvelteKit | 2026-11-19 |
-| [Vanshchandel17/picocli](https://github.com/Vanshchandel17/picocli) (fork) | Picocli is a modern framework for building powerful, user-friendly, GraalVM-enabled command line apps with ease. It supports colors, autocompletion, subcommands, and more. In 1 source file so apps can include as source &#38; avoid adding a dependency. Written in Java, usable from Groovy, Kotlin, Scala, etc. | 2026-11-18 |
-| [Vanshchandel17/checkstyle](https://github.com/Vanshchandel17/checkstyle) (fork) | Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program. | 2026-11-18 |
-| [Vanshchandel17/commons-validator](https://github.com/Vanshchandel17/commons-validator) (fork) | Apache Commons Validator | 2026-11-17 |
-| [Vanshchandel17/Tracekit](https://github.com/Vanshchandel17/Tracekit) (fork) | Tamper-evident tracing, policy gates and cross-checks for AI agents: see what the agent did, and why. | 2026-11-11 |
-| [Vanshchandel17/guava](https://github.com/Vanshchandel17/guava) (fork) | Google core libraries for Java | 2026-11-04 |
-| [Vanshchandel17/truth](https://github.com/Vanshchandel17/truth) (fork) | Fluent assertions for Java and Android | 2026-11-03 |
-| [Vanshchandel17/awaitility.github.io](https://github.com/Vanshchandel17/awaitility.github.io) (fork) | Awaitility website | 2026-11-03 |
-| [Vanshchandel17/floe](https://github.com/Vanshchandel17/floe) (fork) | Encrypted P2P file transfer in the browser, on the desktop, and in the CLI. No accounts, no uploads, no file storage. | 2026-10-31 |
-| [Vanshchandel17/quarkus-rabbitmq-client](https://github.com/Vanshchandel17/quarkus-rabbitmq-client) (fork) | Quarkus extension supporting RabbitMQ | 2026-10-26 |
-| [Vanshchandel17/habit-launcher](https://github.com/Vanshchandel17/habit-launcher) | — | 2026-04-21 |
-| [Vanshchandel17/smart-logistics-system](https://github.com/Vanshchandel17/smart-logistics-system) | — | 2026-04-13 |
-| [Vanshchandel17/digital-nutrition-label](https://github.com/Vanshchandel17/digital-nutrition-label) | — | 2026-04-12 |
-| [Vanshchandel17/valentine](https://github.com/Vanshchandel17/valentine) | — | 2026-02-13 |
-
-<!-- repos:end -->
-
-## Recent public activity
-
-<!-- activity:start -->
-
-- 2026-11-24 · Updated a pull request in [kornia/kornia](https://github.com/kornia/kornia)
-- 2026-11-23 · Reviewed a pull request in [kornia/kornia](https://github.com/kornia/kornia)
-- 2026-11-22 · Updated a pull request in [openfoodfacts/open-prices-frontend](https://github.com/openfoodfacts/open-prices-frontend)
-- 2026-11-22 · Created a branch, tag, or repository in [Vanshchandel17/open-prices-frontend](https://github.com/Vanshchandel17/open-prices-frontend)
-- 2026-11-22 · Pushed to [Vanshchandel17/kornia](https://github.com/Vanshchandel17/kornia)
-- 2026-11-20 · Updated a pull request in [kornia/kornia](https://github.com/kornia/kornia)
-- 2026-11-20 · Pushed to [Vanshchandel17/kornia](https://github.com/Vanshchandel17/kornia)
-- 2026-11-20 · Created a branch, tag, or repository in [Vanshchandel17/kornia](https://github.com/Vanshchandel17/kornia)
-- 2026-11-20 · Pushed to [Vanshchandel17/kornia](https://github.com/Vanshchandel17/kornia)
-- 2026-11-20 · Updated a pull request in [kornia/kornia](https://github.com/kornia/kornia)
-
-<!-- activity:end -->
 
 ## Open-source contributions
 
@@ -116,6 +72,27 @@ A Chrome extension built around a popup, a page content script, and a background
 
 <!-- open:end -->
 
+## Contribution calendar
+
+[View my GitHub contribution calendar](https://github.com/Vanshchandel17#contribution-graph) for day-by-day contributions.
+
+## Recent public activity
+
+<!-- activity:start -->
+
+- 2026-11-24 · Updated a pull request in [kornia/kornia](https://github.com/kornia/kornia)
+- 2026-11-23 · Reviewed a pull request in [kornia/kornia](https://github.com/kornia/kornia)
+- 2026-11-22 · Updated a pull request in [openfoodfacts/open-prices-frontend](https://github.com/openfoodfacts/open-prices-frontend)
+- 2026-11-22 · Created a branch, tag, or repository in [Vanshchandel17/open-prices-frontend](https://github.com/Vanshchandel17/open-prices-frontend)
+- 2026-11-22 · Pushed to [Vanshchandel17/kornia](https://github.com/Vanshchandel17/kornia)
+- 2026-11-20 · Updated a pull request in [kornia/kornia](https://github.com/kornia/kornia)
+- 2026-11-20 · Pushed to [Vanshchandel17/kornia](https://github.com/Vanshchandel17/kornia)
+- 2026-11-20 · Created a branch, tag, or repository in [Vanshchandel17/kornia](https://github.com/Vanshchandel17/kornia)
+- 2026-11-20 · Pushed to [Vanshchandel17/kornia](https://github.com/Vanshchandel17/kornia)
+- 2026-11-20 · Updated a pull request in [kornia/kornia](https://github.com/kornia/kornia)
+
+<!-- activity:end -->
+
 ## Tech stack
 
 | Area | Tools |
@@ -124,6 +101,31 @@ A Chrome extension built around a popup, a page content script, and a background
 | **Frontend** | React · Vite · Tailwind CSS · Leaflet |
 | **Backend and data** | Node.js · Express · MongoDB |
 | **Tooling** | Git · GitHub · Chrome Extensions |
+
+## Public repositories
+
+<!-- repos:start -->
+
+| Repository | Description | Last push (UTC) |
+| :--- | :--- | :--- |
+| [Vanshchandel17/open-prices-frontend](https://github.com/Vanshchandel17/open-prices-frontend) (fork) | A vue.js frontend for Open Prices | 2026-11-22 |
+| [Vanshchandel17/kornia](https://github.com/Vanshchandel17/kornia) (fork) | 🐍 Geometric Computer Vision Library for Spatial AI | 2026-11-22 |
+| [Vanshchandel17/openfoodfacts-explorer](https://github.com/Vanshchandel17/openfoodfacts-explorer) (fork) | The next-generation frontend for OpenFoodFacts, made with SvelteKit | 2026-11-19 |
+| [Vanshchandel17/picocli](https://github.com/Vanshchandel17/picocli) (fork) | Picocli is a modern framework for building powerful, user-friendly, GraalVM-enabled command line apps with ease. It supports colors, autocompletion, subcommands, and more. In 1 source file so apps can include as source &#38; avoid adding a dependency. Written in Java, usable from Groovy, Kotlin, Scala, etc. | 2026-11-18 |
+| [Vanshchandel17/checkstyle](https://github.com/Vanshchandel17/checkstyle) (fork) | Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program. | 2026-11-18 |
+| [Vanshchandel17/commons-validator](https://github.com/Vanshchandel17/commons-validator) (fork) | Apache Commons Validator | 2026-11-17 |
+| [Vanshchandel17/Tracekit](https://github.com/Vanshchandel17/Tracekit) (fork) | Tamper-evident tracing, policy gates and cross-checks for AI agents: see what the agent did, and why. | 2026-11-11 |
+| [Vanshchandel17/guava](https://github.com/Vanshchandel17/guava) (fork) | Google core libraries for Java | 2026-11-04 |
+| [Vanshchandel17/truth](https://github.com/Vanshchandel17/truth) (fork) | Fluent assertions for Java and Android | 2026-11-03 |
+| [Vanshchandel17/awaitility.github.io](https://github.com/Vanshchandel17/awaitility.github.io) (fork) | Awaitility website | 2026-11-03 |
+| [Vanshchandel17/floe](https://github.com/Vanshchandel17/floe) (fork) | Encrypted P2P file transfer in the browser, on the desktop, and in the CLI. No accounts, no uploads, no file storage. | 2026-10-31 |
+| [Vanshchandel17/quarkus-rabbitmq-client](https://github.com/Vanshchandel17/quarkus-rabbitmq-client) (fork) | Quarkus extension supporting RabbitMQ | 2026-10-26 |
+| [Vanshchandel17/habit-launcher](https://github.com/Vanshchandel17/habit-launcher) | — | 2026-04-21 |
+| [Vanshchandel17/smart-logistics-system](https://github.com/Vanshchandel17/smart-logistics-system) | — | 2026-04-13 |
+| [Vanshchandel17/digital-nutrition-label](https://github.com/Vanshchandel17/digital-nutrition-label) | — | 2026-04-12 |
+| [Vanshchandel17/valentine](https://github.com/Vanshchandel17/valentine) | — | 2026-02-13 |
+
+<!-- repos:end -->
 
 <p align="center">
   <a href="https://github.com/Vanshchandel17?tab=repositories"><strong>Browse repositories</strong></a> &nbsp;·&nbsp;
