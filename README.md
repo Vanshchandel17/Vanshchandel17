@@ -89,9 +89,9 @@ A Chrome extension built around a popup, a page content script, and a background
 
 <!-- merged:start -->
 
+- [Cygnux-Labs/Tracekit](https://github.com/Cygnux-Labs/Tracekit) · [#702 · Show --agent in the init command summary](https://github.com/Cygnux-Labs/Tracekit/pull/702)
 - [kornia/kornia](https://github.com/kornia/kornia) · [#6863 · docs: explain reconstruction for batched line-plane intersections](https://github.com/kornia/kornia/pull/6863)
 - [kornia/kornia](https://github.com/kornia/kornia) · [#6847 · docs: illustrate line-plane intersection and parallel fallback](https://github.com/kornia/kornia/pull/6847)
-- [Cygnux-Labs/Tracekit](https://github.com/Cygnux-Labs/Tracekit) · [#702 · Show --agent in the init command summary](https://github.com/Cygnux-Labs/Tracekit/pull/702)
 - [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle) · [#22391 · Issue &#35;20590: Add ParameterAssignmentCheck compact source coverage](https://github.com/checkstyle/checkstyle/pull/22391)
 - [awaitility/awaitility.github.io](https://github.com/awaitility/awaitility.github.io) · [#6 · Point documentation to current Awaitility Javadoc](https://github.com/awaitility/awaitility.github.io/pull/6)
 - [jannskiee/floe](https://github.com/jannskiee/floe) · [#835 · fix&#40;desktop&#41;: name redirects to https](https://github.com/jannskiee/floe/pull/835)
